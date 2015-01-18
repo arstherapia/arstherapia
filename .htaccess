@@ -1,0 +1,4 @@
+AuthType Basic  
+AuthName "restricted area"  
+AuthUserFile /var/www/arstherapia.net/public_html/.htpasswd 
+require valid-user
