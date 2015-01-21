@@ -19,10 +19,10 @@
             </a>
             <a href="#" class="list-group-item"><span class="badge">1207,90$ royalties owed & paid</span>2nd quarter 2014</a>
             <a href="2nd2014report.php"<button class="btn btn-info btn-block">See full 2nd quarter report</button></a>
-            <a href="3rd2014report.php" class="list-group-item"><span class="badge">513,75$ royalties owed</span>3rd quarter 2014</a>
+            <a href="#" class="list-group-item"><span class="badge">513,75$ royalties owed & paid</span>3rd quarter 2014</a>
             <a href="3rd2014report.php"<button class="btn btn-info btn-block">See full 3rd quarter report</button></a>
-            <a href="#" class="list-group-item"><span class="badge">status: pending</span>4th quarter 2014</a>
-            <a href="#"<button class="btn btn-info btn-block">Coming soon early Jan 2015</button></a>
+            <a href="#" class="list-group-item"><span class="badge">570,90$ royalties owed</span>4th quarter 2014</a>
+            <a href="4th2014report.php"<button class="btn btn-info btn-block">See full 4th quarter report</button></a>
           </div>
         </div><!-- /.col-sm-4 -->
             <div class="col-sm-4">
